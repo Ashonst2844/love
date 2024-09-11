@@ -140,6 +140,7 @@ main {
     }
     #address p {
         line-height: 30px;
+        font-size: 14px
     }
     #open {
         top: 200px;       
